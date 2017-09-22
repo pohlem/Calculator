@@ -3,6 +3,7 @@ package main;
 import java.util.Scanner;
 import calculation.*;
 
+/** It's the main of the console program */
 public class Main {
 
 	public static void main(String[] args) {
